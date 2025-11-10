@@ -2,7 +2,7 @@ import './globals.css'
 
 export const metadata = {
   title: 'Mutlu Başlangıç',
-  description: 'A simple template with App Router, MongoDB, and shadcn/ui',
+  description: 'Kolaylaştırın güçleştirmeyin müjdeleyin nefret ettirmeyim(s.a.v)',
 }
 
 export default function RootLayout({ children }) {
