@@ -1,7 +1,7 @@
 import './globals.css'
 
 export const metadata = {
-  title: 'Mutlu Başlangıç',
+  title: 'MutluBasla',
   description: 'Kolaylaştırın güçleştirmeyin müjdeleyin nefret ettirmeyim(s.a.v)',
 }
 
